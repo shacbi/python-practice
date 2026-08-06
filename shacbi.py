@@ -1,1 +1,1 @@
-print("waasax")
+print("hello")
