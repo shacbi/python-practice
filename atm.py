@@ -2,7 +2,7 @@
 
 balance = 500
 
-print("===== WELCOME TO ATM =====")
+print("WELCOME TO ATM")
 
 while True:
     print("\n1. Check Balance")
@@ -10,7 +10,7 @@ while True:
     print("3. Withdraw Money")
     print("4. Exit")
 
-    choice = input("Choose an option: ")
+    choice = input("dooro an option: ")
 
     if choice == "1":
         print("Your balance is: $", balance)
